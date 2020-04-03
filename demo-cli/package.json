@@ -1,0 +1,21 @@
+{
+  "name": "demo-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "demo-cli": "./index.js",
+    "demo-cmd-cli": "./index-command.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.0.0",
+    "git-clone": "^0.1.0",
+    "log-symbols": "^3.0.0",
+    "ora": "^4.0.3",
+    "shelljs": "^0.8.3"
+  }
+}

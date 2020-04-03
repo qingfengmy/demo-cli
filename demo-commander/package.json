@@ -1,0 +1,11 @@
+{
+  "name": "demo-commander",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "qfmy-hello": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^5.0.0"
+  }
+}

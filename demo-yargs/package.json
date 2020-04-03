@@ -1,0 +1,11 @@
+{
+  "name": "demo-yargs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "qfmy-hello": "./index.js"
+  },
+  "dependencies": {
+    "yargs": "^15.3.1"
+  }
+}

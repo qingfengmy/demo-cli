@@ -1,0 +1,12 @@
+{
+  "name": "qfmy-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hello": "./index.js"
+  },
+  "author": "qingfenmgy",
+  "license": "ISC",
+  "dependencies": {}
+}
